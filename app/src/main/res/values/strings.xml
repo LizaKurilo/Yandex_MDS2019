@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LizaKuriloApp</string>
+    <string name="name">Lizaveta Kurilo</string>
+    <string name="version">current version</string>
+    <string name="link">https://github.com/LizaKurilo</string>
+
+
 </resources>
