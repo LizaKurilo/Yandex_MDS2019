@@ -53,7 +53,7 @@
 
 
     <TextView
-        android:id="@+id/version"
+        android:id="@+id/versionID"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:text="@string/version"

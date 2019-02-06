@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         // Fabric.with(this, new Crashlytics());
         setContentView(R.layout.activity_main);
 
-        final TextView version = findViewById(R.id.version);
+        final TextView version = findViewById(R.id.versionID);
         version.setText(BuildConfig.VERSION_NAME);
     }
 }
